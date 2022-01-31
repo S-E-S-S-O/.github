@@ -1,12 +1,7 @@
-## Hi there 👋
+## S.E.S.S.O.
 
-<!--
+The S.E.S.S.O. is an organization which follows ideals based on everything related to science to satisfy our thirst for knowledge and curiosity.
 
-**Here are some ideas to get you started:**
+This organization is the open source profile of the S.E.S.S.O. maintained by some of its members
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![vietzi](https://user-images.githubusercontent.com/68278515/151771919-9f7cc42e-28f5-429d-a325-828e79fb98bb.png)
